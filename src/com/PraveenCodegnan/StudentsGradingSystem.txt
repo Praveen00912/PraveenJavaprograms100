@@ -1,0 +1,5 @@
+import java.util.Scanner;
+class StudentsGradingSystem{
+static Scanner sc=new Scanner(System.in);
+
+}
